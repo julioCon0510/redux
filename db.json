@@ -1,0 +1,114 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "31111"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "pan",
+      "precio": 3000,
+      "id": 6
+    },
+    {
+      "nombre": "pan",
+      "precio": 3000,
+      "id": 7
+    },
+    {
+      "nombre": "julio",
+      "precio": 3300,
+      "id": 8
+    },
+    {
+      "nombre": "julio",
+      "precio": 22,
+      "id": 9
+    },
+    {
+      "nombre": "julio",
+      "precio": 22,
+      "id": 10
+    },
+    {
+      "nombre": "julio",
+      "precio": 22,
+      "id": 11
+    },
+    {
+      "nombre": "julio",
+      "precio": 22,
+      "id": 12
+    },
+    {
+      "nombre": "julio",
+      "precio": 22,
+      "id": 13
+    },
+    {
+      "nombre": "julio",
+      "precio": 22,
+      "id": 14
+    },
+    {
+      "nombre": "julio",
+      "precio": 22,
+      "id": 15
+    },
+    {
+      "nombre": "julio",
+      "precio": 12,
+      "id": 16
+    },
+    {
+      "nombre": "julio",
+      "precio": 12,
+      "id": 17
+    },
+    {
+      "nombre": "julio",
+      "precio": 12,
+      "id": 18
+    },
+    {
+      "nombre": "julio",
+      "precio": 12,
+      "id": 19
+    },
+    {
+      "nombre": "julio",
+      "precio": 12,
+      "id": 20
+    },
+    {
+      "nombre": "julio",
+      "precio": 212,
+      "id": 21
+    },
+    {
+      "nombre": "julio",
+      "precio": 23,
+      "id": 22
+    }
+  ]
+}
